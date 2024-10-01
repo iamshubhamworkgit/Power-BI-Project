@@ -123,6 +123,56 @@ By addressing these challenges, the dashboard aims to provide actionable insight
 ## Detailed View Page
 ![Screenshot 2024-09-25 124106](https://github.com/user-attachments/assets/763a94d5-6c58-45ff-bd65-d90a50d3ee27)
 
+## Insights
+
+Following inferences can be drawn from the dashboard;
+
+* Latest Month Waitlist = 709K
+* Previous Year's Latest Month Waitlist = 640K
+
+        thus, the waitlist number's has been increased by 69K from the last year's latest month.
+
+### Patient Average Waitlist
+#### [1] Case Type :
+1.1) 10% paitent waitlist is coming from "Inpatient" case type.
+
+1.2) 72% paitent waitlist is coming from "Outpatient" case type.
+
+1.3) 16% paitent waitlist is coming from "Day Case" case type.
+
+        thus, Outpatient case type has a very high contrubution in overall Waitlist, indicating a need for prioritization in these case types.
+
+ #### [2] Time Band VS Age profile :
+ 2.1) 0-3 months time band has maximum waitlist for 16-64 Age group.
+
+ 2.2) 3-6 months time band has maximum waitlist for 16-64 Age group.
+
+ 2.3) 6-9 months time band has maximum waitlist for 16-64 Age group.
+
+ 2.4) 9-12 months time band has maximum waitlist for 16-64 Age group.
+
+ 2.5) 12-15 months time band has maximum waitlist for 16-64 Age group.
+
+ 2.6) 15-18 months time band has maximum waitlist for 16-64 Age group.
+
+ 2.7) 19+ months time band has maximum waitlist for 16-64 Age group.
+
+        thus, 16-64 Age Group has maximum waitlist in every time band,  indicating a need for prioritization in this demographic.
+
+#### [3] Top 5 Specialty:
+
+3.1) Paediratic Dermatology has max waitlist of 167.89.
+
+3.2) Paediratic ENT has waitlist of 147.55.
+
+3.3) Paed Orthopaedic has waitlist of 114.50.
+
+3.2) Accident & Emergency has waitlist of 111.19.
+
+3.2) Paed Cardiology has waitlist of 101.77.
+
+        thus, these 5 specialty's needs priotization at first.
+
 ## HealthCare Pateint Waiting List
 Power BI Dashboard presented by Shubham Kumar.
 
