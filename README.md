@@ -52,7 +52,7 @@ By addressing these challenges, the dashboard aims to provide actionable insight
 - Understanding business objective
 - High level data study
 ### Step 2 : Data Collection
-- We used Folder data connector for data collection.
+- We used (Folder data connector) for data collection.
 - Loaded Inpatient folder with 4 Excel files.
 - Loaded Outpatient folder with 4 Excel files
 ### Step 3 : Data Transformation & Modeling
