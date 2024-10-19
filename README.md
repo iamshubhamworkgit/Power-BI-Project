@@ -134,11 +134,11 @@ Following inferences can be drawn from the dashboard;
 
 ### Patient Average Waitlist
 #### [1] Case Type :
-1.1) 10% paitent waitlist is coming from "Inpatient" case type.
+1.1) 10% patient waitlist is coming from "Inpatient" case type.
 
-1.2) 72% paitent waitlist is coming from "Outpatient" case type.
+1.2) 72% patient waitlist is coming from "Outpatient" case type.
 
-1.3) 16% paitent waitlist is coming from "Day Case" case type.
+1.3) 16% patient waitlist is coming from "Day Case" case type.
 
         thus, Outpatient case type has a very high contrubution in overall Waitlist, indicating a need for prioritization in these case types.
 
