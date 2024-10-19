@@ -171,7 +171,7 @@ Following inferences can be drawn from the dashboard;
 
 3.2) Paed Cardiology has waitlist of 101.77.
 
-        thus, these 5 specialty's needs priotization at first.
+        thus, these 5 specialty's needs prioritization at first.
 
 ## HealthCare Pateint Waiting List
 Power BI Dashboard presented by Shubham Kumar.
